@@ -25,7 +25,8 @@ We CAD'd the FaceBeer device in SolidWorks, with special consideration for ergon
 
 ## Challenges we ran into
 - Training a model to be accurate with the user being in a variety of distances away from the camera required us to create a very large dataset (4000 images)
-- Creating a secure website involved issuing 
+- Creating a secure website involved issuing SSL certificates in order to allow HTTPS connections, preventing possible attacks from on-path-adversaries
+- Our custom case required us to quickly prototype before 3D printing. We faced issues while printing, which were amplified due to the tight schedule of the hackathon
 
 ## Accomplishments that we're proud of
 We're proud of our entire development process. Over the course of this weekend, we have been able to take this project from a simple idea to a working and polished prototype. In particular, our custom machine learning model, ergonomic CAD design, and secure back-end were tough challenges that our team was able to overcome.
