@@ -17,6 +17,7 @@ We used the following equipment:
 - Raspberry Pi
 - OLED display
 - MQ3 alcohol sensor
+- Analog to Digital Converter
 - Infrared Camera
 - Arcade button
 
@@ -27,7 +28,10 @@ We CAD'd the FaceBeer device in SolidWorks, with special consideration for ergon
 - Creating a secure website involved issuing 
 
 ## Accomplishments that we're proud of
+We're proud of our entire development process. Over the course of this weekend, we have been able to take this project from a simple idea to a working and polished prototype. In particular, our custom machine learning model, ergonomic CAD design, and secure back-end were tough challenges that our team was able to overcome.
 
 ## What we learned
+Our greatest learning outcomes throughout this project were due to the exchanging of knowledge between team members. Our team was able to share deep understanding across a variety of topics with each other. This allowed members with weaker understandings in particular areas like machine learning, web development, cybersecurity, and CAD to learn from those with more experience.
 
 ## What's next for FaceBeer
+We plan to continue working to better refine the accuracy of our alcohol sensor to best estimate the user's BAC. We would also like to conduct local market research to see if any businesses in Worcester would be interested in using our product.
